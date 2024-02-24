@@ -6,6 +6,4 @@ InstructIR takes as input an image and a human-written instruction for how to im
 I share this code so that it might be useful for others✌️
 https://github.com/mv-lab/InstructIR
 
-
-https://github.com/MojtabaZarreh/InstructIRBot/assets/71370569/cfb4c632-926c-4dae-85a1-83e2e7bad6dc
-
+![InstructIR](https://github.com/MojtabaZarreh/InstructIRBot/assets/71370569/49ea58db-9793-45e4-8b6b-7a4e910f6e66)
